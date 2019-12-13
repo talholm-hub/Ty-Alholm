@@ -1,0 +1,5 @@
+C:\Users\talholm\source\repos\Project8\Project8\obj\Debug\Project8.csprojAssemblyReference.cache
+C:\Users\talholm\source\repos\Project8\Project8\obj\Debug\Project8.Form1.resources
+C:\Users\talholm\source\repos\Project8\Project8\obj\Debug\Project8.Properties.Resources.resources
+C:\Users\talholm\source\repos\Project8\Project8\obj\Debug\Project8.csproj.GenerateResource.cache
+C:\Users\talholm\source\repos\Project8\Project8\obj\Debug\Project8.csproj.CoreCompileInputs.cache
